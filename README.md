@@ -1,10 +1,9 @@
-# Human-Computer-Interaction
+# Campus Trail
 
-Campus Trail
-
-Prototype Link : 
+## Prototype Link : 
 https://invis.io/WBEMDHDA7
 
+## Workings of the Project
 
 A navigation app for finding your way around campus and buildings.
 You can explore exiting events around you and save your recent visited places to navigate to them again!
