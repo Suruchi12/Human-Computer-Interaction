@@ -1,7 +1,7 @@
 # Campus Trail
 
 ## Prototype Link : 
-https://invis.io/WBEMDHDA7
+[Interactive Prototype](https://invis.io/WBEMDHDA7)
 
 ## Workings of the Project
 
