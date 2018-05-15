@@ -2,7 +2,7 @@
 
 ## Prototype Link : 
 [Interactive Prototype](https://invis.io/WBEMDHDA7)
-![Finished App](https://invis.io/WBEMDHDA7)
+
 ## Workings of the Project
 
 A navigation app for finding your way around campus and buildings.
